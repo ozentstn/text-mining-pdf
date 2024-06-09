@@ -1,1 +1,3 @@
 # text-mining-pdf
+
+Robot yardımıyla indirilen makalelere ait PDF dosyaları Python kodu yazılarak açılmıştır ve metin koleksiyonu oluşturulmuştur. Kodlama, yazım dili Türkçe ve İngilizce olan metin verileri için ayrı ayrı yapılmıştır. Açılan her makale dosyasındaki harfler küçük harfe dönüştürülmüştür. Kod içerisinde aratılacak olan 72 adet istatistiksel yöntem ve 12 adet programı içeren, yazım dili Türkçe ve İngilizce olan, iki adet PDF dosyası oluşturulmuştur. Oluşturulan dosyalardaki yöntemler ve programlar tüm makalelerde aratılmıştır ve bulunup bulunmamasına göre “1” ve “0” olarak kodlanmıştır. Türkçe ve İngilizce metinlerde kullanılan istatistiksel yöntemlerin sayıları ayrı ayrı toplanarak bir sonuç verisi oluşturulmuştur.
